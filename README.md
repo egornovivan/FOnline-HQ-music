@@ -16,5 +16,6 @@ High quality music for FOnline.
 1. In `fallout2.cfg` find `[sound]` section and set `music_path1=data\sound\music\`.
 1. In `ddraw.ini`, find `[Sound]` section and set `AllowDShowSound=2`.
 
-
+## Composer
+[Alexandr Bulgarov](https://www.youtube.com/channel/UCXdPWNBlzrVJotKgF_YZEHw) aka [Xcentric Noizz](https://vk.com/club16163939)
 
